@@ -1,8 +1,8 @@
 # Credits
 
-- [Java Primitive Types](https://docs.oracle.com/en/java/javase/11/)
-- [Java Standard Types](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-- Vert.x Platform Types
-	- [Vert.x Platform Fundamental Types](https://vertx.io/)
-	- [Vert.x Platform Logging Types](https://logback.qos.ch/)
-	- [Vert.x Platform Templating Types](https://mustache.github.io/)
+- [Primitive Types](https://docs.oracle.com/en/java/javase/11/)
+- [Standard Types](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- Platform Types
+	- [Platform Fundamental Types](https://vertx.io/)
+	- [Platform Logging Types](https://logback.qos.ch/)
+	- [Platform Templating Types](https://mustache.github.io/)
