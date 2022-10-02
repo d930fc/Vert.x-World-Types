@@ -1,7 +1,7 @@
 # Credits
 
 - [Primitive Types](https://docs.oracle.com/en/java/javase/11/)
-- [Compound Types]
+- Compound Types
 	- [Standard Types](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 	- Platform Types
 		- [Platform Fundamental Types](https://vertx.io/)
