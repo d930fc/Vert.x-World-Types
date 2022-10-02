@@ -1,9 +1,11 @@
 # Credits
 
-- [Primitive Types](https://docs.oracle.com/en/java/javase/11/)
+- Primitive Types
+	- [Java](https://docs.oracle.com/en/java/javase/11/)
 - Compound Types
-	- [Standard Types](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-	- Platform Types
-		- [Platform Fundamental Types](https://vertx.io/)
-		- [Platform Logging Types](https://logback.qos.ch/)
-		- [Platform Templating Types](https://mustache.github.io/)
+	- [stdlib](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+	- [Vert.x](https://vertx.io/)
+	- [Logback](https://logback.qos.ch/)
+	- [mustache](https://mustache.github.io/)
+- Program Types
+	- [Nginx](https://www.nginx.com/)
