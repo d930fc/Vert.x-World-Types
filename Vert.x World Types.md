@@ -8,7 +8,7 @@
 	- [Vert.x Library](https://vertx.io/)
 	- [Logback Library](https://logback.qos.ch/)
 	- [mustache Library](https://mustache.github.io/)
-	- User-defined Types
+	- Other User-defined Types
 
 - Smartcore Types and Information Types
 	- No Discussion
