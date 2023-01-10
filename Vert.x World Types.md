@@ -9,5 +9,5 @@
 	- [Logback Library](https://logback.qos.ch/)
 	- [mustache Library](https://mustache.github.io/)
 
-- Executable Types
+- Smartcore Types and Information Types
 	- No Discussion
